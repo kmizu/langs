@@ -1,0 +1,3 @@
+[submodule "matlike"]
+	path = matlike
+	url = git@github.com:kmizu/matlike.git
